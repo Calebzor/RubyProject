@@ -9,7 +9,7 @@ This is a tutorial on creating your first gem and publishing it on [rubygems.org
 
 ***
 
-## [Magyarúl](https://github.com/TVSZE/RubyProject/blob/master/magyar.md)
+## [Magyarul](https://github.com/TVSZE/RubyProject/blob/master/magyar.md)
 
 Ez egy segédlet az első gemed létrehozásához és annak publikálásához a [rubygems.org](https://rubygems.org/) oldalon.
 
